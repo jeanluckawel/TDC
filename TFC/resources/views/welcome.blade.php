@@ -1,2 +1,2 @@
-@extends('index.index')
+@extends('index.home')
 @section('title', 'welcome')
